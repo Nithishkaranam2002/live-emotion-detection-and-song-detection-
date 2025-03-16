@@ -13,7 +13,7 @@ This project is an Emotion-Based Music Recommender system that uses facial and h
 1. Clone the repository**:
 
 ```bash
-   git clone https://github.com/Gayathri-Selvaganapathi/emotion_based_music_recommendation.git
+   git clone https://github.com/Nithishkaranam2002/live-emotion-detection-and-song-detection-.git
    cd emotion_based_music_recommendation
 ```
 2. Install the necessary dependencies:
